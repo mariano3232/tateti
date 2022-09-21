@@ -1,0 +1,16 @@
+.conteiner{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    padding: 0;
+    width: 28rem;
+}
+
+.X{
+    width: 14rem;
+    background-color: #CD493A;
+}
+.O{
+    width: 14rem;
+    background-color: #4392F1;
+}
