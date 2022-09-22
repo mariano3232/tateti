@@ -67,7 +67,7 @@ function App() {
 
   return (
     <div className="App">
-    <h1>TA TE TI BEIBII</h1>
+    <h1>TA TE TI</h1>
       <Board squares={squares} click={handleClick} winningSquares={winningSquares}/>
       <Score score={score}/>
     </div>
